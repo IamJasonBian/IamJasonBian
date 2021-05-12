@@ -34,7 +34,8 @@ Topics I'm interested in:
   * Cloud Hydroponics: Cloud Based Sensoring Solution for flow telemetry 
   ![image](https://user-images.githubusercontent.com/16582383/118032925-0ab52800-b31d-11eb-9ff7-ad16fc96e6d4.png)
 
-  * Optimized Van-Life: Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts
+  * ## Optimized Van-Life: Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts
+  
   ![image](https://user-images.githubusercontent.com/16582383/118031913-e86eda80-b31b-11eb-88c2-2a4242a13c53.png)
   ![image](https://user-images.githubusercontent.com/16582383/118032867-fcffa280-b31c-11eb-9ad4-debc6f7168c2.png)
 
