@@ -54,6 +54,9 @@ Topics I'm interested in:
   
   ![image](https://user-images.githubusercontent.com/16582383/118032035-0dfbe400-b31c-11eb-93f7-4ec9914af902.png)
 
+  ## 3D Spatial Visualization: 
+  3d tools for visualizing time-series trajectories
+  
   
  ## Work Experience:
    * DTE Energy: Six Sigma ERP for contractors to centralize problem solving and data entry
