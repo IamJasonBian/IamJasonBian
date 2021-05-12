@@ -19,6 +19,7 @@ Topics I'm interested in:
  A few projects:
   ## Swingtech: 
   Machine Learning 3d spatial classification and visualization via sensors
+  
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
 
   * Concrete Canoe: Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation
