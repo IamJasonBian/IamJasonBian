@@ -4,7 +4,7 @@ IamJasonBian/IamJasonBian is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m @IamJasonBian, 
+👋 ## Hi, I’m @IamJasonBian, 
 
 I'm an Industrial Engineer working on various optimization, sensoring, and analytics solutions within Industrial Engineering domains. Most of my projects are python (flask, django, pandas), R (dplyr), azure sql, html, and Javascript based.
 
@@ -16,7 +16,7 @@ Topics I'm interested in:
   * Edge Processing
   * Cloud Event-Hubs and telemetry Processing
   
- A few projects:
+ # A few projects:
   ## Swingtech: 
   Machine Learning 3d spatial classification and visualization via sensors
   
