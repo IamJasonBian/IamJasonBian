@@ -33,7 +33,7 @@ Topics I'm interested in:
   ![image](https://user-images.githubusercontent.com/16582383/118032317-6337f580-b31c-11eb-88eb-cdbe0ab4fa45.png)
 ![image](https://user-images.githubusercontent.com/16582383/118032361-721ea800-b31c-11eb-8cb3-695b428a3486.png)
 
-  ## League of Legends Item Analysis: 
+  ## Riot-API-and-Match-History-Analytics: 
   Api for querying live league of legends data
   
   ![image](https://user-images.githubusercontent.com/16582383/118032998-23254280-b31d-11eb-86bd-91ab7e18fee9.png)
