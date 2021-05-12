@@ -21,7 +21,8 @@ Topics I'm interested in:
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
 
-  ## Concrete Canoe: Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation
+  ## Concrete Canoe: 
+  Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation
   ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
 
   
