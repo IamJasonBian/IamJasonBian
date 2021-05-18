@@ -41,7 +41,7 @@ Topics I'm interested in:
 
   ## Cloud Hydroponics: 
   Cloud Based Sensoring Solution for flow telemetry 
-  Shown here is an early stage sensoring prototype with azure based alerting and app deployment. Code is currently prioritory and under development.
+  Shown here is an early stage sensoring prototype with azure based alerting and app deployment. Code is currently proprietary and under development.
   
   ![image](https://user-images.githubusercontent.com/16582383/118032925-0ab52800-b31d-11eb-9ff7-ad16fc96e6d4.png)
 
@@ -66,10 +66,10 @@ Topics I'm interested in:
   https://sites.google.com/umich.edu/hfet-lab/lab-tools
   
   ## Swingtech: 
-  Machine Learning 3d spatial classification and visualization via sensors
+  Machine Learning 3d spatial classification and visualization via sensors: <http://swingtech.io/>
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
-  <http://swingtech.io/>
+  
 
  
   
