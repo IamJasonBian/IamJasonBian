@@ -20,14 +20,14 @@ Topics I'm interested in:
   
   
   ## Heijunka Schedular: 
-  VBA and python based manufacturing scheduling solution in production: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
+  VBA and python based manufacturing scheduling solution in production, see full implementation here: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
 
   ![image](https://user-images.githubusercontent.com/16582383/118032317-6337f580-b31c-11eb-88eb-cdbe0ab4fa45.png)
   ![image](https://user-images.githubusercontent.com/16582383/118032361-721ea800-b31c-11eb-8cb3-695b428a3486.png)
 
 
   ## Concrete Canoe: 
-  Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation: [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
+  Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation, see implementation here in the Hull Design section: [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
   
   ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
 
