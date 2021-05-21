@@ -67,6 +67,7 @@ Topics I'm interested in:
   
   ## Swingtech: 
   Machine Learning 3d spatial classification and visualization via sensors.
+  
   Site: <http://swingtech.io/>
   Repo: 
   
