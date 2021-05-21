@@ -66,7 +66,9 @@ Topics I'm interested in:
   https://sites.google.com/umich.edu/hfet-lab/lab-tools
   
   ## Swingtech: 
-  Machine Learning 3d spatial classification and visualization via sensors: <http://swingtech.io/>
+  Machine Learning 3d spatial classification and visualization via sensors.
+  Site: <http://swingtech.io/>
+  Repo: 
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
   
