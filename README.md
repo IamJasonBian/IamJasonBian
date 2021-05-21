@@ -70,7 +70,7 @@ Topics I'm interested in:
   
   Site: <http://swingtech.io/>
   
-  Repo: 
+  Repo: https://github.com/IamJasonBian/SwingTech_Core
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
   
