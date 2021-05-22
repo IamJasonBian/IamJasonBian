@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m @IamJasonBian, 
 
-I'm an Industrial Engineer working on various optimization, sensoring, and analytics solutions within Industrial Engineering domains. Most of my projects are python (flask, django, pandas), R (dplyr), azure sql, html, and Javascript based. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems. Below is an assortment of proof-of-concept projects I have worked on!
+I'm an Industrial Engineer working on various optimization, sensoring, and analytics solutions within Industrial Engineering domains. Most of my projects are python (flask, django, pandas), R (dplyr), azure sql, html, and Javascript based analytics solutions. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems. Below is an assortment of proof-of-concept projects I have worked on!
 
 Topics I'm interested in: 
   * Stochastic Processing/Modeling 
