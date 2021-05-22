@@ -27,7 +27,7 @@ Topics I'm interested in:
 
 
   ## Concrete Canoe: 
-  Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation, see implementation here in the Hull Design section: [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
+  Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation, see implementation here in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape: [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
   
   ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
 
