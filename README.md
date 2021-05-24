@@ -20,7 +20,7 @@ Topics I'm interested in:
   
   
   ## Heijunka Scheduler: 
-  Heijunka Scheduler is a VBA and python based manufacturing scheduling solution with an point in time linear programming solve. Code is currently in production. To see full implementation: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
+  Heijunka Scheduler is a VBA and python based manufacturing scheduling solution with an point in time linear programming solve. Code is currently in production on two different product lines. To see full implementation: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
 
   ![image](https://user-images.githubusercontent.com/16582383/118032317-6337f580-b31c-11eb-88eb-cdbe0ab4fa45.png)
   ![image](https://user-images.githubusercontent.com/16582383/118032361-721ea800-b31c-11eb-8cb3-695b428a3486.png)
