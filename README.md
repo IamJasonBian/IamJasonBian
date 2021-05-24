@@ -20,14 +20,14 @@ Topics I'm interested in:
   
   
   ## Heijunka Scheduler: 
-  Heijunka Scheduler is a VBA and python based manufacturing scheduling solution with an point in time linear programming solve. Code is currently in production on two different product lines. To see full implementation: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
+  Heijunka Scheduler is a VBA and python based manufacturing scheduling solution with an point-in-time linear programming solve. Code is currently in production on two different product lines. To see full implementation: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
 
   ![image](https://user-images.githubusercontent.com/16582383/118032317-6337f580-b31c-11eb-88eb-cdbe0ab4fa45.png)
   ![image](https://user-images.githubusercontent.com/16582383/118032361-721ea800-b31c-11eb-8cb3-695b428a3486.png)
 
 
   ## Concrete Canoe: 
-  Concrete Canoe is a Michigan sponsered project Optimized Hull/Hydrostatics canoe exteriors for concrete canoes via simulation, see implementation below in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape: [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
+  Concrete Canoe is an University of Michigan sponsered project where Hull/Hydrostatics canoe exteriors are created for concrete canoes via simulation. Exact parameters are located in the implementation below in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape. [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
   
   ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
 
