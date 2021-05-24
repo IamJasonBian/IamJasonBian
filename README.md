@@ -43,6 +43,8 @@ Topics I'm interested in:
   Cloud Based Sensoring Solution for flow telemetry 
   Shown here is an early stage sensoring prototype with azure based alerting and app deployment. Code is currently proprietary and under development. Idea is to use Azure Cloud (Azure webapp, eventhub, azure datalake) to manage flow telemetry and provide an alerting/sensoring solution that is much cheaper than PowerBi/Stream Analytics solutions.
   
+  https://github.com/OptimChain/Cloud_Hydroponics
+  
   ![image](https://user-images.githubusercontent.com/16582383/118032925-0ab52800-b31d-11eb-9ff7-ad16fc96e6d4.png)
 
   ## Optimized Van-Life: 
