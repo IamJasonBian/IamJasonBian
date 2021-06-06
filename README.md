@@ -17,6 +17,12 @@ Topics I'm interested in:
   * Cloud Event-Hubs and telemetry Processing
   
  # A few projects:
+ 
+  ## Work Experience:
+  
+* DTE Energy: Six Sigma ERP for contractors to centralize problem solving and data entry
+* Cummins: Factory floor level re-order point models for tooling. Dynamic inventory management for bottleneck machines
+* Microsoft: Regression models for datacenter capacity optimization, azure warehouse inventory buffering based on historical usage volatility, Azure data-lake based data engineering and dev-ops workflows
   
   
   ## Heijunka Scheduler: 
@@ -68,20 +74,11 @@ Topics I'm interested in:
   https://sites.google.com/umich.edu/hfet-lab/lab-tools
   
   ## Swingtech: 
-  Machine Learning 3d spatial classification and visualization via sensors.
+  Proof of Concept Machine Learning 3d spatial classification and visualization via sensors.
   
   Site: <http://swingtech.io/>
   
   Repo: https://github.com/IamJasonBian/SwingTech_Core
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
-  
-
- 
-  
- ## Work Experience:
-   * DTE Energy: Six Sigma ERP for contractors to centralize problem solving and data entry
-   * Cummins: Factory floor level re-order point models for tooling. Dynamic inventory management for bottleneck machines
-   * Microsoft: Regression models for datacenter capacity optimization, azure warehouse inventory buffering based on historical usage volatility, Azure data-lake based data engineering and dev-ops workflows
-   
    
