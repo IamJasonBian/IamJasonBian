@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m @IamJasonBian, 
 
-I'm an Industrial Engineer working on various optimization, sensoring, and analytics solutions within Industrial Engineering domains. Most of my projects are Python (flask, django, pandas), R (dplyr), azure SQL, HTML, and Javascript based analytics solutions. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems. Below is an assortment of proof-of-concept projects I have worked on!
+I'm an Industrial Engineer working on various optimization, sensoring, and analytics solutions within Industrial Engineering domains. Most of my projects are Python (flask, django, pandas), R (dplyr), azure SQL, HTML, and Javascript based analytics solutions. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems. Below is an assortment of projects I have worked on!
 
 Topics I'm interested in: 
   * Stochastic Processing/Modeling 
@@ -74,7 +74,7 @@ Topics I'm interested in:
   https://sites.google.com/umich.edu/hfet-lab/lab-tools
   
   ## Swingtech: 
-  Proof of Concept Machine Learning 3d spatial classification and visualization via sensors.
+  Proof of Concept Machine Learning 3d Spatial Classification and Visualization via sensors:
   
   Site: <http://swingtech.io/>
   
