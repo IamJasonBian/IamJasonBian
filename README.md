@@ -56,10 +56,9 @@ Topics I'm interested in:
   ## Optimized Van-Life: 
   Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts to create a sustainable life on the road.
   
+  https://github.com/IamJasonBian/Van_Life/blob/main/README.md
   ![image](https://user-images.githubusercontent.com/16582383/118031913-e86eda80-b31b-11eb-88c2-2a4242a13c53.png)
   
-  Attached battery pack for data science work. 8.8 kwh of lithium ion battery capacity was used to fuel analytics workloads and GPUs within the van.   
-  ![image](https://user-images.githubusercontent.com/16582383/118032867-fcffa280-b31c-11eb-9ad4-debc6f7168c2.png)
 
   ## QR ERP: 
   Cloud based ERP app for inventory management. Idea is to use QR code to automate the tracking of common standardized work elements that were previously done manual via excel.
