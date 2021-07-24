@@ -34,14 +34,6 @@ Topics I'm interested in:
   ![image](https://user-images.githubusercontent.com/16582383/118032361-721ea800-b31c-11eb-8cb3-695b428a3486.png)
 
 
-  ## Concrete Canoe: 
-  Concrete Canoe is an University of Michigan sponsered project where optimal Hull/Hydrostatics canoe exteriors are created for concrete canoes via simulation. Exact parameters are located in the implementation below in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape. 
-  
-  [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
-  
-  ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
-
-
   ## Riot-API-and-Match-History-Analytics: 
   Api for querying live league of legends data, concept here is to create personalized item analytics in R and python that give better decision insights than popular league analytics engines such as https://na.op.gg/
   
@@ -86,4 +78,12 @@ Topics I'm interested in:
   Repo: https://github.com/IamJasonBian/SwingTech_Core
   
   ![image](https://user-images.githubusercontent.com/16582383/118032809-ed805980-b31c-11eb-965e-4729abbd7419.png)
+  
+  ## Concrete Canoe: 
+  Concrete Canoe is an University of Michigan sponsered project where optimal Hull/Hydrostatics canoe exteriors are created for concrete canoes via simulation. Exact parameters are located in the implementation below in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape. 
+  
+  [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
+  
+  ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
+
    
