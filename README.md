@@ -16,15 +16,14 @@ Topics I'm interested in:
   * Time-Series Forecasting
   * Edge Processing
   * Cloud Event-Hubs and Telemetry Processing
-  
- # A few projects:
- 
-  ## Work Experience:
+
+# Work Experience:
   
 * DTE Energy: Six Sigma ERP for contractors to centralize problem solving and data entry
 * Cummins: Factory floor level re-order point models for tooling. Dynamic inventory management for bottleneck machines
 * Microsoft: Regression models for datacenter capacity optimization, azure warehouse inventory buffering based on historical usage volatility, Azure data-lake based data engineering and dev-ops workflows
   
+ # A few projects:
   
   ## Heijunka Scheduler: 
   Heijunka Scheduler is a VBA and python based manufacturing scheduling solution with an point-in-time linear programming solve. Code is currently in production on two different product lines. To see full implementation: [Heijunka Whitepaper.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504722/Heijunka.Whitepaper.pdf)
