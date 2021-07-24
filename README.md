@@ -45,10 +45,11 @@ Topics I'm interested in:
   ## Riot-API-and-Match-History-Analytics: 
   Api for querying live league of legends data, concept here is to create personalized item analytics in R and python that give better decision insights than popular league analytics engines such as https://na.op.gg/
   
+  Repo: <https://github.com/IamJasonBian/Riot-API-and-Match-History-Analytics>
+  
   ![image](https://user-images.githubusercontent.com/16582383/118032998-23254280-b31d-11eb-86bd-91ab7e18fee9.png)
   
-  Repo: <https://github.com/IamJasonBian/Riot-API-and-Match-History-Analytics>
-
+ 
   ## Cloud Hydroponics: 
   Cloud Based Sensoring Solution for flow telemetry 
   Shown here is an early stage sensoring prototype with azure based alerting and app deployment. Code is currently proprietary and under development. Idea is to use Azure Cloud (Azure webapp, eventhub, azure datalake) to manage flow telemetry and provide an alerting/sensoring solution that is much cheaper than PowerBi/Stream Analytics solutions.
@@ -61,6 +62,7 @@ Topics I'm interested in:
   Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts to create a sustainable life on the road.
   
   https://github.com/IamJasonBian/Van_Life/blob/main/README.md
+  
   ![image](https://user-images.githubusercontent.com/16582383/118031913-e86eda80-b31b-11eb-88c2-2a4242a13c53.png)
   
 
