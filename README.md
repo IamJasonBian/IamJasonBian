@@ -1,11 +1,4 @@
----
-title: Nineteen Years Later
-author: Harry Potter
-date: July 31, 2016
-output:
-  rmarkdown::html_document:
-    theme: lumen
----
+
 
 <!---
 IamJasonBian/IamJasonBian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
