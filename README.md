@@ -49,7 +49,8 @@ Topics I'm interested in:
   
   Repo: https://github.com/OptimChain/Cloud_Hydroponics
   
-  ![image](https://user-images.githubusercontent.com/16582383/120911515-e8bd7580-c63c-11eb-8829-ef33e18bb1fb.png)
+  ![image](https://user-images.githubusercontent.com/16582383/129123628-ced253ca-074e-4a50-91a8-46f58afd4d10.png)
+
 
   ## Optimized Van-Life: 
   Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts to create a sustainable life on the road.
