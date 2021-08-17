@@ -85,6 +85,7 @@ Topics I'm interested in:
   
   [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
   
-  ![image](https://user-images.githubusercontent.com/16582383/118032626-bd38bb00-b31c-11eb-93ca-d78dbe76b86b.png)
+  ![image](https://user-images.githubusercontent.com/16582383/129677421-8b73d88f-a253-4261-8a00-b029a20e236f.png)
+
 
    
