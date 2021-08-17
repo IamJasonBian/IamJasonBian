@@ -62,7 +62,7 @@ Topics I'm interested in:
   
   Go to <https://github.com/IamJasonBian/QR_ERP> to see full solution.
   
-  ![image](https://user-images.githubusercontent.com/16582383/118032035-0dfbe400-b31c-11eb-93f7-4ec9914af902.png)
+  ![image](https://user-images.githubusercontent.com/16582383/129677812-64b42ec3-1c67-4915-8fde-66d0eb38676e.png)
 
   ## 3D Spatial Visualization: 
   3D Spatial Visualization contains 3d tools for visualizing time-series trajectories, go to the below link to see current live deployment:
