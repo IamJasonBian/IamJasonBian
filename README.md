@@ -41,7 +41,6 @@ Topics I'm interested in:
   
   ![image](https://user-images.githubusercontent.com/16582383/118032998-23254280-b31d-11eb-86bd-91ab7e18fee9.png)
   
- 
   ## Cloud Hydroponics: 
   Cloud Based Sensoring Solution for flow telemetry. 
   
@@ -51,14 +50,12 @@ Topics I'm interested in:
   
   ![image](https://user-images.githubusercontent.com/16582383/129123628-ced253ca-074e-4a50-91a8-46f58afd4d10.png)
 
-
   ## Optimized Van-Life: 
   Full data science ready Van and Livable space. Combining Optimization and Van-Life concepts to create a sustainable life on the road.
   
    Repo: https://github.com/IamJasonBian/Van_Life/blob/main/README.md
   
-  ![image](https://user-images.githubusercontent.com/16582383/118031913-e86eda80-b31b-11eb-88c2-2a4242a13c53.png)
-  
+  ![image](https://user-images.githubusercontent.com/16582383/129677295-e4b62cd4-c4c8-4ceb-a93f-bccb5751b0a4.png)
 
   ## QR ERP: 
   Cloud based ERP app for inventory management. Idea is to use QR code to automate the tracking of common standardized work elements that were previously done manual via excel.
