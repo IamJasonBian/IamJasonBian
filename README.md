@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Data Engineer working on various optimization, sensoring, and analytics solutions to improve decision making prowess for stakeholders. Most of my projects are Python (flask, django, pandas), R (dplyr), Azure SQL, Azure Datalake, HTML, and Javascript based solutions with a ML or optimization engine. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems.
 
-Visit https://jasonbian.netlify.app/ to see more in-depth writeups on my Projects
+Visit https://jasonbian.netlify.app/ to see more in-depth writeups on my projects.
 
 I have an consulting company! Visit https://optimchain.github.io/Main/ to see how I can help you improve your supply chain operations.
 
