@@ -87,6 +87,8 @@ Topics I'm interested in:
   ## Concrete Canoe: 
   Concrete Canoe is an University of Michigan sponsered project where optimal Hull/Hydrostatics canoe exteriors are created for concrete canoes via simulation. Exact parameters are located in the implementation below in the Hull Design section. Maxsurf simulations were used design of experiments style to solve for the optimal hull shape. 
   
+  See Hull Design section for my contribution! This was the fastest canoe in the past 10 years in competition. 
+  
   [UniversityofMichigan_TECH PAPER.pdf](https://github.com/IamJasonBian/IamJasonBian/files/6504718/UniversityofMichigan_TECH.PAPER.pdf) 
   
   ![image](https://user-images.githubusercontent.com/16582383/129677421-8b73d88f-a253-4261-8a00-b029a20e236f.png)
