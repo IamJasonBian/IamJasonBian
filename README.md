@@ -6,15 +6,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m @IamJasonBian, 
 
-I'm a Data Engineer working on various optimization, sensoring, and analytics solutions to improve decision making prowess for stakeholders. Most of my projects are Python (flask, django, pandas), R (dplyr), Azure SQL, Azure Datalake, HTML, and Javascript based solutions with a ML or optimization engine. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems. Below is an assortment of projects I have worked on!
+I'm a Data Engineer working on various optimization, sensoring, and analytics solutions to improve decision making prowess for stakeholders. Most of my projects are Python (flask, django, pandas), R (dplyr), Azure SQL, Azure Datalake, HTML, and Javascript based solutions with a ML or optimization engine. I believe in building small proof of concept projects, finding the correct value proposition and scaling them into large production systems.
 
 
 Topics I'm interested in: 
   * Supply Chain Analytics
   * Stochastic Processing/Modeling 
-  * Regression
+  * Supplier Classification and Regression Problems 
   * Time-Series Forecasting
-  * Edge Processing
+  * Edge Processing and Stream Analytics
   * Cloud Event-Hubs and Telemetry Processing
 
 # Work Experience:
